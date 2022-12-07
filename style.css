@@ -1,0 +1,530 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+.header{
+    position: absolute;
+    width: 1490px;
+    height: 850px;
+    left: -1px;
+    top: 0px;
+     background: #CFFF5E;
+}
+
+
+
+.arrow{position: absolute;
+    width: 1490px;
+    height: 10px;
+    left: -1px;
+    top: 122px;
+    background: #000000;
+ }
+ .h1{position: absolute;
+    width: 555px;
+    height: 124px;
+    left: 755px;
+    top: 200px;
+    
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 51px;
+    line-height: 62px;
+    
+    color: #000000;
+
+ }
+ .photo{
+    position: absolute;
+width: 600px;
+height: 600px;
+left: 189px;
+top: 200px;
+
+ }
+ .home_text{
+    position: absolute;
+width: 545px;
+height: 87px;
+left: 570px;
+top: 163px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000
+ }
+ .btn{
+position: absolute;
+width: 269px;
+height: 60px;
+left: 755px;
+top: 562px;
+background: #6663FD;
+border-radius: 30px;
+cursor: pointer;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000
+ }
+ .arrow_2{
+    position: absolute;
+width: 1490px;
+height: 10px;
+left: 0px;
+top: 850px;
+
+background: #000000;
+ }
+ .h2{
+    position: absolute;
+width: 940px;
+height: 79px;
+left: 189px;
+top: 956px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 51px;
+line-height: 78px;
+color: #000000;
+ }
+ .main_container_2{
+    position: absolute;
+width: 1489px;
+height: 728px;
+left: 0px;
+top: 860px;
+background: #FDF7E7;
+ }
+ .exchange_text{
+    position: absolute;
+width: 545px;
+height: 203px;
+left: 189px;
+top: 1132px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.btn_2{
+cursor: pointer;
+position: absolute;
+width: 269px;
+height: 60px;
+left: 189px;
+top: 1388px;
+
+background: #6663FD;
+border-radius: 30px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+}
+.photo_2{
+position: absolute;
+width: 402px;
+height: 413px;
+left: 898px;
+top: 1035px;
+}
+.arrow_3{
+position: absolute;
+width: 1490px;
+height: 10px;
+left: -1px;
+top: 1588px;
+background: #000000;
+}
+.main_container_3{
+position: absolute;
+width: 1489px;
+height: 954px;
+left: 0px;
+top: 1598px;
+background: #FDF7E7;
+}
+.h3{
+position: absolute;
+width: 160px;
+height: 87px;
+left: 187px;
+top: 1629px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 87px;
+color: #000000;
+}
+.card_1{
+position: absolute;
+width: 438px;
+height: 695px;
+left: 49px;
+top: 1773px;
+background: #CFFF5E;
+border-radius: 20px;
+}
+.photo_news_1{
+position: absolute;
+width: 408px;
+height: 318px;
+left: 63px;
+top: 1792px;
+border-radius: 20px;
+}
+.news_1{
+position: absolute;
+width: 409px;
+height: 102px;
+left: 65px;
+top: 2133px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+color: #000000
+}
+.btn_3{
+position: absolute;
+width: 269px;
+height: 60px;
+left: 133px;
+top: 2382px;
+background: #6663FD;
+border-radius: 30px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+cursor: pointer;
+}
+.news_2{
+position: absolute;
+width: 438px;
+height: 695px;
+left: 519px;
+top: 1773px;;
+background: #CFFF5E;
+border-radius: 20px;
+}
+.photo_3{   
+position: absolute;
+width: 408px;
+height: 318px;
+left: 534px;
+top: 1792px;
+border-radius: 20px;
+}
+    
+.news_text_2{
+    position: absolute;
+    width: 409px;
+    height: 102px;
+    left: 535px;
+    top: 2133px;
+    font-family: 'Nerko One';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28px;
+    line-height: 34px;   
+}
+.btn_4{
+position: absolute;
+width: 269px;
+height: 60px;
+left: 604px;
+top: 2382px;
+background: #6663FD;
+border-radius: 30px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+cursor: pointer;
+}
+.card_3{
+position: absolute;
+width: 438px;
+height: 695px;
+left: 1002px;
+top: 1773px;
+background: #CFFF5E;
+border-radius: 20px;
+}
+.photo_4{
+    
+position: absolute;
+width: 408px;
+height: 318px;
+left: 1017px;
+top: 1792px;
+border-radius: 20px;
+}
+.news_text_3{
+position: absolute;
+width: 409px;
+height: 102px;
+left: 1017px;
+top: 2133px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 28px;
+line-height: 34px;
+}
+.btn_5{
+position: absolute;
+width: 269px;
+height: 60px;
+left: 1087px;
+top: 2382px;
+background: #6663FD;
+border-radius: 30px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+color: #000000;
+cursor: pointer;
+}
+.arrow_4{
+position: absolute;
+width: 1491px;
+height: 8px;
+left: -2px;
+top: 2498px;
+background: #000000;
+}
+.main_container_4{
+position: absolute;
+width: 1490px;
+height: 829px;
+left: 1px;
+top: 2373px;
+background: #FDF7E7;
+}
+.main_page_2{
+position: absolute;
+width: 1490px;
+height: 829px;
+left: 1px;
+top: 2373px;
+background: #FDF7E7;
+}
+.border_box_1{
+box-sizing: border-box;
+position: absolute;
+width: 1359px;
+height: 63px;
+left: 66px;
+top: 2670px;
+background: #CFFF5E;
+border: 1px solid #000000;
+}
+.faq_h{
+position: absolute;
+width: 105px;
+height: 87px;
+left: 1252px;
+top: 2494px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 72px;
+line-height: 87px;
+color: #000000;
+}
+.name_box{
+position: absolute;
+width: 272px;
+height: 45px;
+left: 85px;
+top: 2642px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 45px;
+}
+.arrow_box_1{
+position: absolute;
+width: 45px;
+height: 46px;
+left: 1342.51px;
+top: 2680px;
+transform: rotate(176.03deg);
+}
+.border_box_2{
+box-sizing: border-box;
+position: absolute;
+width: 1359px;
+height: 63px;
+left: 66px;
+top: 2745px;
+background: #CFFF5E;
+border: 1px solid #000000;
+}
+.name_box_2{
+position: absolute;
+width: 272px;
+height: 45px;
+left: 85px;
+top: 2715px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 45px;
+}
+.arrow_box_2{
+position: absolute;
+width: 45px;
+height: 46px;
+left: 1345.65px;
+top: 2754.64px;
+transform: rotate(176.03deg);
+}
+.border_box_3{
+box-sizing: border-box;
+position: absolute;
+width: 1359px;
+height: 63px;
+left: 64px;
+top: 2820px;
+background: #CFFF5E;
+border: 1px solid #000000;
+}
+.name_box_3{
+position: absolute;
+width: 272px;
+height: 45px;
+left: 85px;
+top: 2791px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 45px;
+}
+.arrow_box_3{
+position: absolute;
+width: 45px;
+height: 46px;
+left: 1345.25px;
+top: 2832.26px;
+transform: rotate(176.03deg);
+}
+.border_box_4{
+box-sizing: border-box;
+position: absolute;
+width: 1359px;
+height: 63px;
+left: 66px;
+top: 2895px;
+background: #CFFF5E;
+border: 1px solid #000000;
+}
+.name_box_4{
+position: absolute;
+width: 272px;
+height: 45px;
+left: 85px;
+top: 2867px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 37px;
+line-height: 45px;
+}
+.arrow_box_4{
+position: absolute;
+width: 45px;
+height: 46px;
+left: 1344.86px;
+top: 2907.89px;
+transform: rotate(176.03deg)
+}
+.new_user{
+position: absolute;
+width: 1490px;
+height: 375px;
+left: -1px;
+top: 3110px;
+background: #CFFF5E;
+}
+.input{
+position: absolute;
+width: 859px;
+height: 102px;
+left: 315px;
+top: 3308px;
+background: #FFFFFF;
+border-radius: 30px;
+}
+.btn_mail{
+position: absolute;
+width: 207px;
+height: 87px;
+left: 960px;
+top: 3315px;
+background: #6663FD;
+border-radius: 30px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+cursor: pointer;
+}
+.new_user_text{
+position: absolute;
+width: 789px;
+height: 52px;
+left: 357px;
+top: 3178px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 43px;
+line-height: 52px;
+}
+.footer{
+position: absolute;
+width: 1489px;
+height: 159px;
+left: -2px;
+top: 3485px;
+background: #000000;
+}
+.footer_text{
+position: absolute;
+width: 622px;
+height: 104px;
+left: 432px;
+top: 3505px;
+font-family: 'Nerko One';
+font-style: normal;
+font-weight: 400;
+font-size: 43px;
+line-height: 52px;
+color: #FFFFFF;
+}

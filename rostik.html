@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Document</title>
+</head>
+<body>
+    <p>Заміна домена </p>
+    <input id="text" type="text">
+    <button onclick="myFunction()">click me</button>
+    <p id="demo"></p>
+    <script>
+        function myFunction(){
+            let text = document.getElementById("text").value
+            let result =    &lt a href= ${text }> site.com   &lt/a>. 
+            document.getElementById("demo").innerHTML = result;
+        }
+
+    </script>
+</body>
+</html>
